@@ -6,7 +6,7 @@ Meet the amazing people who make our frontend team successful!
 
 ### Sarah Chen
 **Frontend Team Lead**
-- 8+ years of Angular experience
+- 10+ years of Angular experience
 - Architecture and technical decision making
 - Team growth and development
 
