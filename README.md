@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da793af7-fddf-465a-ac6e-c0bb003331f5/deploy-status)](https://app.netlify.com/sites/onboarding-microsite-demo/deploys)
 # vitepress-onboarding-microsite-demo
 
 This is a demo project for building an onboarding microsite using **Vitepress 2**. Vitepress is a modern static site generator powered by Vite and Vue.
