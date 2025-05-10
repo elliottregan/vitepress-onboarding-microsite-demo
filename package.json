@@ -8,7 +8,7 @@
     "start": "vitepress dev docs"
   },
   "devDependencies": {
-    "mermaid": "^10.9.3",
+    "mermaid": "^11.6.0",
     "vitepress": "2.0.0-alpha.4"
   }
 }
